@@ -1,5 +1,5 @@
 ## Priview at
-https://github.com/Aavesh-1909/Algorithm-Visualizer.git
+https://aavesh-1909.github.io/Algorithm-Visualizer/
 
 # Getting Started with Create React App
 
