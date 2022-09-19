@@ -1,5 +1,5 @@
 ## Priview at
-https://himanshu12prof.github.io/Pathfinder/
+https://github.com/Aavesh-1909/Algorithm-Visualizer.git
 
 # Getting Started with Create React App
 
